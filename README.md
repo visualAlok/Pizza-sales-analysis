@@ -26,3 +26,11 @@ The project encompasses raw data stored in four CSV files, depicting a year's sa
 ## Data Visualization
 Data visualization was done in Microsoft Power BI
 
+
+![pizza-sales-report](https://github.com/visualAlok/Pizza-sales-analysis/blob/main/Report%20Screen%20shot/home.png)
+
+![pizza-sales-report-1](https://github.com/visualAlok/Pizza-sales-analysis/blob/main/Report%20Screen%20shot/page-2.png)
+
+
+
+
